@@ -1,9 +1,9 @@
 <template>
   <q-tooltip
-    content-class="tooltip tooltip-arrow-right-bottom"
+    content-class="tooltip tooltip-arrow-bottom"
     anchor="top middle"
     self="bottom middle"
-    :offset="[15, 15]"
+    :offset="[20, 20]"
     max-width="380px"
     transition-show="scale"
     transition-hide="scale"
@@ -18,7 +18,9 @@
 </template>
 
 <script>
-export default {};
+export default {
+
+};
 </script>
 
 <style lang="scss">

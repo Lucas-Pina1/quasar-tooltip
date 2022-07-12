@@ -11,7 +11,7 @@
           @click="leftDrawerOpen = !leftDrawerOpen"
         />
 
-        <q-toolbar-title> Tooltip badass </q-toolbar-title>
+        <q-toolbar-title> Tooltip</q-toolbar-title>
       </q-toolbar>
     </q-header>
 
